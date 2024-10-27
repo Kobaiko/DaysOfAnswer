@@ -17,7 +17,7 @@ export class Game {
     };
     this.player.sprite.src = 'assets/f15_sprite.png';
     this.background = new Image();
-    this.background.src = 'assets/background.png';
+    this.background.src = 'assets/Background.png';
     this.backgroundY = 0;
     this.backgroundSpeed = 1;
     this.enemySprite = new Image();
